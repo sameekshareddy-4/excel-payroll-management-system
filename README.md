@@ -2,52 +2,42 @@
 
 ## Overview
 
-This project is an Employee Payroll Management System built using Microsoft Excel. It automates salary calculations, tax deductions, bonuses, incentives, and provides visual insights through charts and dashboards.
+This project is my **first Microsoft Excel data analytics project**, created to practice the fundamentals of Excel, payroll calculations, dashboard creation, and business reporting.
 
-The goal of this project was to practice Excel formulas, data analysis, dashboard creation, and business reporting techniques commonly used in HR and Payroll departments.
+The dataset contains a **small number of sample employees** and focuses on learning how payroll systems work rather than building a production-ready HR solution. Through this project, I explored Excel formulas, conditional formatting, charts, and dashboard design while understanding how employee salary data can be analyzed.
 
 ---
 
 ## Features
 
-Employee Salary Management
-
-HRA Calculation
-
-Bonus Calculation Based on Experience
-
-Attendance Incentive Calculation
-
-Tax Calculation
-
-Net Salary Calculation
-
-Employee Performance Rating
-
-Conditional Formatting
-
-KPI Dashboard
-
-Department-wise Salary Analysis
-
-Data Visualization with Charts
+* Employee Salary Management
+* Basic Payroll Calculations
+* HRA Calculation
+* Bonus Calculation
+* Attendance Incentive Calculation
+* Income Tax Calculation
+* Net Salary Calculation
+* Employee Performance Rating
+* Conditional Formatting
+* Interactive Dashboard
+* Department-wise Salary Analysis
+* Data Visualization using Charts
 
 ---
 
 ## Excel Concepts Used
 
 * IF Function
-* Nested IF Function
+* Nested IF
 * SUM
+* AVERAGE
 * MAX
 * MIN
-* AVERAGE
 * COUNT
-* INDEX
-* MATCH
+* Percentage Calculations
 * Conditional Formatting
 * Data Validation
-* Charts & Graphs
+* Charts
 * Dashboard Design
 
 ---
@@ -55,12 +45,10 @@ Data Visualization with Charts
 ## Dashboard KPIs
 
 * Total Employees
+* Average Salary
 * Highest Salary
 * Lowest Salary
-* Average Salary
 * Total Payroll Cost
-* Top Performer
-* Department-wise Salary Distribution
 
 ---
 
@@ -68,44 +56,59 @@ Data Visualization with Charts
 
 ### Employee Distribution by Department
 
-Pie Chart showing employee count across departments.
-
-### Employee Bonus Comparison
-
-Bar Chart comparing bonus amounts received by employees.
+Displays the number of employees in each department.
 
 ### Department Salary Analysis
 
-Column Chart showing total salary paid by department.
+Compares the total salary paid across departments.
+
+### Employee Bonus Comparison
+
+Visualizes bonus amounts received by employees.
 
 ---
 
-## Business Use Case
+## What I Learned
 
-This system can be used by HR and Payroll teams to:
+Through this project, I learned how to:
 
-* Calculate employee salaries automatically
-* Track payroll expenses
-* Analyze department-wise salary distribution
-* Identify top performers
-* Generate quick payroll insights
+* Design structured Excel datasets
+* Apply business calculations using Excel formulas
+* Build KPI dashboards
+* Create meaningful charts for business reporting
+* Perform basic payroll analysis
+* Organize data for better decision-making
 
 ---
 
 ## Future Improvements
 
+This is **Version 1** of the project. Future versions will include:
+
+* Larger employee dataset
 * Pivot Tables
-* Interactive Filters
-* Department Slicers
+* Slicers and Interactive Filters
+* XLOOKUP and INDEX-MATCH
 * Automated Payroll Reports
+* Advanced Dashboard Design
+* VBA Automation
 * Employee Search Functionality
+
+---
+
+## Tech Stack
+
+* Microsoft Excel
+* Excel Formulas
+* Charts & Graphs
+* Conditional Formatting
 
 ---
 
 ## Author
 
-Sameeksha Reddy
+**Sameeksha Reddy**
 
-Learning Data Analytics, Excel, SQL, Power BI, Python, and Software Engineering one project at a time.
+B.Tech CSE Student | BS (Hons.) in AI & Data Science
 
-🚀 From Student to Software Engineer
+Currently learning Python, SQL, Power BI, Data Analytics, and Software Engineering—building one project at a time.
